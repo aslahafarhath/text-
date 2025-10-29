@@ -1,0 +1,47 @@
+<!-- inline css -->
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 style="color:blueviolet;">hello everyone</h1>
+    <p style="color: yellowgreen;">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Deleniti quos nihil nemo eligendi, earum sit asperiores error maiores ut dolores provident magnam sint sapiente nulla expedita ab maxime saepe tempore.</p>
+</body>
+</html>
+
+      <!-- internal css -->
+      <!-- element selector -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+h2{
+    color: chocolate;
+}
+p{
+    color: rgb(104, 78, 28);
+}
+.para1{
+    color: deeppink;
+}
+.para2{
+    color: dimgray;
+}
+</style>
+<body>
+    <h2> Happiness </h2>
+    <p>"Whoever is happy will make others happy." <br> "The power of finding beauty in the humblest things makes home happy and life lovely." <br> "Happiness is when what you think, what you say, and what you do are in harmony." <br> "Happiness is not something ready-made.</p>
+    <p> check it</p>
+    <h3 class="para1"> Emotions</h3>
+    <p class="para2"> “Let's not forget that the little emotions are the great captains of our lives and we obey them without realizing it. “ </p>
+</body>
+</html>
